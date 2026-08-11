@@ -1,0 +1,2 @@
+# OOP-Abstraction-Create-a-food-delivery-system-with-different-payment-methods
+This project demonstrates Object-Oriented Programming (OOP) Abstraction in Python by creating a simple food delivery payment system with multiple payment methods.  The project uses Python's built-in abc module to create an abstract class and define an abstract payment method. Different payment classes implement the payment process in their own way.
